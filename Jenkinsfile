@@ -6,3 +6,4 @@ stage('Build jobs') {
 					echo pipelineParams.message
 
 				}
+}
